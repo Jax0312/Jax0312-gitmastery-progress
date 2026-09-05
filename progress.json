@@ -284,5 +284,14 @@
       "Branch 'feature-list' is missing. Did you misspell it?"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1788594100.686216,
+    "completed_at": 1788594102.404568,
+    "comments": [
+      "Great work using all of the concepts you've learnt about branching to mix the messy documentation!"
+    ],
+    "status": "Completed"
   }
 ]
